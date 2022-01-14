@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>G:\Games\Christmas Interactive\SFML-christmasinteractive\SFML-christmasinteractive latest\SFML-christmasinteractive\Debug\SFML-christmasinteractive.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>G:\Games\Christmas Interactive\SFML-christmasinteractive\SFML-christmasinteractive latest\SFML-christmasinteractive\SFML-christmasinteractive\ASSETS\FONTS\ariblk.ttf</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>G:\Games\Christmas Interactive\SFML-christmasinteractive\SFML-christmasinteractive latest\SFML-christmasinteractive\SFML-christmasinteractive\ASSETS\IMAGES\SFML-LOGO.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
